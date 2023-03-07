@@ -1,0 +1,16 @@
+.message_info{
+    padding-left: 10px;
+    width: 65%;
+
+}
+.icons{
+    display: flex;
+    margin-left: auto;
+    height: 40px;
+}
+.message_timestamp{
+   
+    color: gray;
+    font-weight: 300;
+    font-size: 13px;
+}

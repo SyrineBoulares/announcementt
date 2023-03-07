@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+}
+body{
+  --announcements-color: #3f0f40;
+  overflow: hidden;
+  
+}
+.app_body{
+  display: flex;
+  height: 100vh;
+
+}
